@@ -45,7 +45,7 @@ Plotly is employed to create interactive and visually engaging plots, charts, an
    * Visual Studio Code (or other IDE's)
    * Python 3.11.0 or higher
    * MySQL
-
+</br>
 
 ### 2. Required Libraries Installation in Visual Studio Code
 ```python
@@ -91,16 +91,16 @@ import requests
 import plotly.express as px
 import locale  # to convert number format to indian number format (Optional)
 ```
-
 </br>
+
 ### 4. Project Structure
 This project is structured into two distinct Python files, each serving a specific purpose:
 
-* ### JSON to CSV Conversion and MySQL Migration
-#### File: Phonepe_Pulse_DataExtraction.py
-Description: This script is responsible for extracting data from a JSON structure, converting it into CSV format, and subsequently migrating it to a MySQL database. It ensures seamless data transformation and storage for further analysis.
-* ### Streamlit Application for Data Visualization
-#### File: Phonepe_Pulse_Explorer.py
+* #### JSON to CSV Conversion and MySQL Migration
+##### File: Phonepe_Pulse_DataExtraction.py
+<p>Description: This script is responsible for extracting data from a JSON structure, converting it into CSV format, and subsequently migrating it to a MySQL database. It ensures seamless data transformation and storage for further analysis.
+* #### Streamlit Application for Data Visualization
+##### File: Phonepe_Pulse_Explorer.py
 Description: The streamlit_app.py script hosts a Streamlit application that provides enhanced insights into the data. Leveraging Streamlit's interactive features, it offers geographical map representations and various charts to visualize the data comprehensively.
 
 Features
