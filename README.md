@@ -96,12 +96,12 @@ import locale  # to convert number format to indian number format (Optional)
 ### 4. Project Structure
 This project is structured into two distinct Python files, each serving a specific purpose:
 
-* #### JSON to CSV Conversion and MySQL Migration
-##### File: Phonepe_Pulse_DataExtraction.py
-<p>Description: This script is responsible for extracting data from a JSON structure, converting it into CSV format, and subsequently migrating it to a MySQL database. It ensures seamless data transformation and storage for further analysis.
-* #### Streamlit Application for Data Visualization
-##### File: Phonepe_Pulse_Explorer.py
-Description: The streamlit_app.py script hosts a Streamlit application that provides enhanced insights into the data. Leveraging Streamlit's interactive features, it offers geographical map representations and various charts to visualize the data comprehensively.
+* #### <ins>JSON to CSV Conversion and MySQL Migration</ins>
+⠀⠀⠀⠀<ins>File:</ins> **_Phonepe_Pulse_DataExtraction.py_**</br>
+⠀⠀⠀⠀<ins>Description:</ins> **_This script is responsible for extracting data from a JSON structure, converting it into CSV format, and subsequently ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀migrating it to a MySQL database. It ensures seamless data transformation and storage for further analysis._**
+* #### <ins>Streamlit Application for Data Visualization</ins>
+⠀⠀⠀⠀<ins>File:</ins> **_Phonepe_Pulse_Explorer.py_**</br>
+⠀⠀⠀⠀<ins>Description:</ins> **_The streamlit_app.py script hosts a Streamlit application that provides enhanced insights into the data. Leveraging ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Streamlit's interactive features, it offers geographical map representations and various charts to visualize the data ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀comprehensively._**
 
 Features
 Data Cloning: Clone data from the PhonePe Pulse repository on GitHub.
