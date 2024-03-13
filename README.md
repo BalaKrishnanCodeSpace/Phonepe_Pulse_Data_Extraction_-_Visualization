@@ -1,3 +1,8 @@
+
+![PhonePe Logo](https://mma.prnewswire.com/media/1832286/PhonePe_Logo.jpg?p=twitter)
+
+
+Phonepe Pulse Data 
 Features
 Data Cloning: Clone data from the PhonePe Pulse repository on GitHub.
 Data Extraction: Extract data to CSV files for further processing.
@@ -7,13 +12,9 @@ Contact Form: Easily reach out for further inquiries through the built-in contac
 Installation
 Clone the Repository:
 
-bash
-Copy code
 git clone https://github.com/your-username/phonepe-pulse-visualization.git
 Install Dependencies:
 
-bash
-Copy code
 pip install -r requirements.txt
 Set Up MySQL Database:
 
@@ -21,8 +22,6 @@ Create a MySQL database and user.
 Update the MySQL connection details in the code.
 Run the Streamlit App:
 
-bash
-Copy code
 streamlit run app.py
 Usage
 Access the Streamlit App: Open the Streamlit app in your browser.
