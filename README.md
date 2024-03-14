@@ -136,7 +136,7 @@ Users can utilize a wide range of filters to narrow down the dataset and focus o
 
 *  <b><ins>Interactive Map Visualization:</ins></b>
 The Explore Data page presents geographical insights using an interactive map visualization powered by Plotly. Users can explore transaction or user data across different states of India, allowing for a spatial understanding of transaction trends.
-      + [Plotly Mapbox Choropleth](https://plotly.com/python/choropleth-maps/)
+      + <a href="https://plotly.com/python/choropleth-maps/" target="_blank">Plotly Mapbox Choropleth</a>
 In the "Explore Data" page of our application, we leverage the Plotly Mapbox Choropleth feature to provide users with an interactive and insightful visualization of geographical data. The Plotly Mapbox Choropleth offers several key functionalities:
 
 Geospatial Data Representation: Visualize geospatial data on an interactive map, with each region shaded or colored based on specific data values, enabling exploration of spatial patterns and variations.
