@@ -1,4 +1,4 @@
-page in progress
+readme file development in progress
 ![PhonePe Logo](https://mma.prnewswire.com/media/1832286/PhonePe_Logo.jpg?p=twitter)
 </br>
 </br>
@@ -31,13 +31,13 @@ The PhonePe Pulse Data Visualization and Exploration project is a robust system 
 > Built with Streamlit, the application provides an intuitive interface for users to explore and visualize PhonePe Pulse data effortlessly. Streamlit's interactive widgets enhance the user experience, making data analysis seamless and efficient.
 
 ### 2. MySQL Database
-⠀⠀MySQL serves as the backbone for storing PhonePe Pulse data securely and efficiently. Data is stored in structured tables within the MySQL ⠀⠀database, facilitating seamless data retrieval and analysis through SQL queries.
+> MySQL serves as the backbone for storing PhonePe Pulse data securely and efficiently. Data is stored in structured tables within the MySQL database, facilitating seamless data retrieval and analysis through SQL queries.
 
 ### 3. Interactive Data Exploration
-⠀⠀Users can interactively explore PhonePe Pulse data using Streamlit's widgets and Plotly visualizations. The application enables users to filter, ⠀⠀group, and analyze data based on various parameters, empowering them to derive actionable insights from the data.
+> Users can interactively explore PhonePe Pulse data using Streamlit's widgets and Plotly visualizations. The application enables users to filter, group, and analyze data based on various parameters, empowering them to derive actionable insights from the data.
 
 ### 4. Data Visualization with Plotly
-⠀⠀Plotly is employed to create interactive and visually engaging plots, charts, and maps to visualize PhonePe Pulse data. Users can gain ⠀⠀valuable insights into transaction trends, user behavior, and geographical distribution through Plotly's dynamic visualization features.
+> Plotly is employed to create interactive and visually engaging plots, charts, and maps to visualize PhonePe Pulse data. Users can gain valuable insights into transaction trends, user behavior, and geographical distribution through Plotly's dynamic visualization features.
 </br>
 </br>
 ___
