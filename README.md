@@ -136,28 +136,20 @@ Users can utilize a wide range of filters to narrow down the dataset and focus o
 
 *  <b><ins>Interactive Map Visualization:</ins></b>
 The Explore Data page presents geographical insights using an interactive map visualization powered by Plotly. Users can explore transaction or user data across different states of India, allowing for a spatial understanding of transaction trends.
-      + <a href="https://plotly.com/python/choropleth-maps/" target="_blank">Plotly Mapbox Choropleth</a>
+      + <a href="https://plotly.com/python/choropleth-maps/" target="_blank"> Plotly Mapbox Choropleth</a>: 
 In the "Explore Data" page of our application, we leverage the Plotly Mapbox Choropleth feature to provide users with an interactive and insightful visualization of geographical data. The Plotly Mapbox Choropleth offers several key functionalities:
 
-Geospatial Data Representation: Visualize geospatial data on an interactive map, with each region shaded or colored based on specific data values, enabling exploration of spatial patterns and variations.
+          - <b><ins>Geospatial Data Representation</ins>:</b> Visualize geospatial data on an interactive map, with each region shaded or colored based on specific data values, enabling exploration of spatial patterns and variations.
 
-Customizable Color Scales: Flexibility to customize the color scale used in the choropleth map to represent data intensity or magnitude, allowing users to highlight different data ranges or categories.
+          - <b><ins>Customizable Color Scales</ins>:</b> Flexibility to customize the color scale used in the choropleth map to represent data intensity or magnitude, allowing users to highlight different data ranges or categories.
 
-Integration with Mapbox: Leveraging the Mapbox platform to provide high-quality and customizable maps for data visualization, with options to choose from a variety of Mapbox map styles and themes.
+          - <b><ins>Integration with Mapbox</ins>:</b> Leveraging the Mapbox platform to provide high-quality and customizable maps for data visualization, with options to choose from a variety of Mapbox map styles and themes.
 
-Interactive Hover Information: Interactive hover information for each geographical region, providing additional details about data points upon hovering, enhancing user experience and facilitating deeper exploration.
+          - <b><ins>Interactive Hover Information</ins>:</b> Interactive hover information for each geographical region, providing additional details about data points upon hovering, enhancing user experience and facilitating deeper exploration.
 
-Data Filtering and Aggregation: Ability to filter and aggregate data based on different parameters such as year, quarter, and state, allowing users to focus on specific subsets of data and analyze them in more detail.
+          - <b><ins>Data Filtering and Aggregation</ins>:</b> Ability to filter and aggregate data based on different parameters such as year, quarter, and state, allowing users to focus on specific subsets of data and analyze them in more detail.
 
-Dynamic Updates: Supports dynamic updates, enabling users to interactively modify data parameters and instantly visualize the changes on the map, enhancing real-time feedback and facilitating exploratory data analysis.
-
-
-
-
-
-
-
-
+          - <b><ins>Dynamic Updates</ins>:</b> Supports dynamic updates, enabling users to interactively modify data parameters and instantly visualize the changes on the map, enhancing real-time feedback and facilitating exploratory data analysis.
 
 *  <b><ins>Color Scale Customization:</ins></b>
 Users have the flexibility to customize the color scale used in the map visualization to represent transaction or user data intensity. By adjusting the color scale, users can emphasize specific data ranges or patterns on the map.
