@@ -40,6 +40,7 @@ The PhonePe Pulse Data Visualization and Exploration project is a robust system 
 > Plotly is employed to create interactive and visually engaging plots, charts, and maps to visualize PhonePe Pulse data. Users can gain valuable insights into transaction trends, user behavior, and geographical distribution through Plotly's dynamic visualization features.
 </br>
 </br>
+
 ___
 # Developer Guide  
 ### 1. Tools Installation
@@ -95,15 +96,18 @@ import locale  # to convert number format to indian number format (Optional)
 This project is structured into two distinct Python files, each serving a specific purpose:
 
 * #### <ins>JSON to CSV Conversion and MySQL Migration</ins>
-⠀⠀⠀⠀<ins>File:</ins> **_Phonepe_Pulse_DataExtraction.py_**</br>
-⠀⠀⠀⠀<ins>Description:</ins> **_This script is responsible for extracting data from a JSON structure, converting it into CSV format, and subsequently ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀migrating it to a MySQL database. It ensures seamless data transformation and storage for further analysis._**
+> <ins>File:</ins> **_Phonepe_Pulse_DataExtraction.py_**</br>
+<ins>Description:</ins> **_This script is responsible for extracting data from a JSON structure, converting it into CSV format, and subsequently migrating it to a MySQL database. It ensures seamless data transformation and storage for further analysis._**
 * #### <ins>Streamlit Application for Data Visualization</ins>
-⠀⠀⠀⠀<ins>File:</ins> **_Phonepe_Pulse_Explorer.py_**</br>
-⠀⠀⠀⠀<ins>Description:</ins> **_This script host a Streamlit application that provides enhanced insights into the data. Leveraging Streamlit's interactive ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀features, it offers geographical map representations and various charts to visualize the data comprehensively._**
+> <ins>File:</ins> **_Phonepe_Pulse_Explorer.py_**</br>
+<ins>Description:</ins> **_This script host a Streamlit application that provides enhanced insights into the data. Leveraging Streamlit's interactive features, it offers geographical map representations and various charts to visualize the data comprehensively._**
 </br>
 </br>
+
 ___
 ## User Guide
+</br>
+
 ### <ins><em> Analysis Page </em></ins>
 ![Analysis_Page](https://github.com/BalaKrishnanCodeSpace/Phonepe_Pulse_Data_Extraction_-_Visualization/blob/36ccad82d90bb187b25e17dbfdd97de5f1e0a296/Miscellaneous_Files/Analysis_Page.png)
 
