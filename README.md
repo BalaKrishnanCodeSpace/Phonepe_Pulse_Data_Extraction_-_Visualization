@@ -28,7 +28,7 @@ The PhonePe Pulse Data Visualization and Exploration project is a robust system 
 
 ### 1. Streamlit Application
 
-⠀⠀>Built with Streamlit, the application provides an intuitive interface for users to explore and visualize PhonePe Pulse data effortlessly. Streamlit's interactive widgets enhance the user experience, making data analysis seamless and efficient.
+> Built with Streamlit, the application provides an intuitive interface for users to explore and visualize PhonePe Pulse data effortlessly. Streamlit's interactive widgets enhance the user experience, making data analysis seamless and efficient.
 
 ### 2. MySQL Database
 ⠀⠀MySQL serves as the backbone for storing PhonePe Pulse data securely and efficiently. Data is stored in structured tables within the MySQL ⠀⠀database, facilitating seamless data retrieval and analysis through SQL queries.
