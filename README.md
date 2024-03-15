@@ -1,4 +1,3 @@
-readme file development in progress
 ![PhonePe Logo](https://mma.prnewswire.com/media/1832286/PhonePe_Logo.jpg?p=twitter)
 </br>
 </br>
@@ -170,7 +169,7 @@ With the ability to toggle between Transactions and Users as the chosen analyzer
 
 *  <b><ins>Exporting Insights:</ins></b>
 Users can export the analyzed insights and visualizations from the Explore Data page for further analysis or sharing. The application provides options to save visualizations as image files or export data tables for offline exploration.
-
+</br>
 
 ___
 ## Conclusion
@@ -183,11 +182,12 @@ With a vision to democratize access to data-driven decision-making, I set out to
 The result of this endeavor is the PhonePe Pulse Data Visualization and Exploration application – a feature-rich platform that empowers users to unlock valuable insights from their data. Whether it's analyzing transaction trends, exploring user behavior patterns, or visualizing geographical data, the application offers a versatile toolkit for data exploration and analysis.
 
 Continuing to iterate and enhance the application, my ultimate goal remains unchanged: to provide users with a powerful yet accessible platform for unlocking the full potential of their data. Inspired by PhonePe Pulse's commitment to innovation and data-driven decision-making, I am dedicated to pushing the boundaries of what's possible in the field of data visualization and analytics.
-
+</br>
 
 ___
 ## License Information:
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code for both commercial and non-commercial purposes, with attribution to the original author.
+</br>
 
 ___
 ## Contact Information:
