@@ -2,11 +2,8 @@
 </br>
 </br>
 
-$${\color{#6739b7}Phonepe \space Pulse \space - Data \space Visualization \space and \space Exploration}$$
 
-### <div align="center"><strong>A User-Friendly Tool Using Streamlit and Plotly</strong></div>
-
-<h1 style="font-size: 36px; color: #6739b7;">Phonepe Pulse - Data Visualization and Exploration</h1>
+![Phonepe](https://github.com/BalaKrishnanCodeSpace/Phonepe_Pulse_Data_Extraction_-_Visualization/blob/6066118c89eac03f90b6c1cb4a39e5b4abc7482b/Miscellaneous_Files/Phonepe.png)
 
 
 # Introduction
