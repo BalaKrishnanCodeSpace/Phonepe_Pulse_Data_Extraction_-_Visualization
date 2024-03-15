@@ -175,7 +175,7 @@ ___
 ## Conclusion
 </br>
 
-Inspired by the innovative features and data insights offered by [PhonePe Pulse](https://www.phonepe.com/pulse/){:target="_blank"}, I embarked on a journey to create a robust and user-friendly application that brings similar functionalities to a wider audience. Drawing inspiration from the website, I recognized the potential to leverage data visualization techniques and analytical tools to empower users with actionable insights into transaction trends and user behavior patterns.
+Inspired by the innovative features and data insights offered by [PhonePe Pulse](https://www.phonepe.com/pulse/), I embarked on a journey to create a robust and user-friendly application that brings similar functionalities to a wider audience. Drawing inspiration from the website, I recognized the potential to leverage data visualization techniques and analytical tools to empower users with actionable insights into transaction trends and user behavior patterns.
 
 With a vision to democratize access to data-driven decision-making, I set out to develop an application that encapsulates the essence of PhonePe Pulse while offering additional features and customization options. By combining my expertise in software development with a deep understanding of data analysis and visualization, I aimed to create a powerful tool capable of handling large datasets and complex analytical tasks with ease.
 
@@ -192,6 +192,9 @@ This project is licensed under the MIT License. You are free to use, modify, and
 ___
 ## Contact Information:
 For any questions, feedback, or contributions, feel free to reach out to the project maintainer:
+</br>
 
 Balakrishnan Ravikumar
+</br>
+
 Feel free to customize the content as per your preferences and project requirements.
