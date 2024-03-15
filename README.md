@@ -9,7 +9,7 @@ readme file development in progress
 
 
 # Introduction
-> The PhonePe Pulse website showcases more than 2000+ Crore transactions by consumers on an interactive map of India. With over 45% market share, PhonePe's data is representative of the country's digital payment habits. The insights on the website and in the report have been drawn from two key sources - the entirety of PhonePe's transaction data combined with merchant and customer interviews. The report is available as a free download on the PhonePe Pulse website and GitHub.
+> The PhonePe Pulse website showcases more than 2000+ Crore transactions by consumers. With over 45% market share, PhonePe's data is representative of the country's digital payment habits. The insights on the website and in the report have been drawn from two key sources - the entirety of PhonePe's transaction data combined with merchant and customer interviews. The report is available as a free download on the PhonePe Pulse website and GitHub.
 </br>
 
 
@@ -34,22 +34,23 @@ The PhonePe Pulse Data Visualization and Exploration project is a robust system 
 > MySQL serves as the backbone for storing PhonePe Pulse data securely and efficiently. Data is stored in structured tables within the MySQL database, facilitating seamless data retrieval and analysis through SQL queries.
 
 ### 3. Interactive Data Exploration
-> Users can interactively explore PhonePe Pulse data using Streamlit's widgets and Plotly visualizations. The application enables users to filter, group, and analyze data based on various parameters, empowering them to derive actionable insights from the data.
+> Users can interactively explore PhonePe Pulse data using Streamlit's widgets and Plotly visualizations. The application enables users to filter, group and analyze data based on various parameters, empowering them to derive actionable insights from the data.
 
 ### 4. Data Visualization with Plotly
-> Plotly is employed to create interactive and visually engaging plots, charts, and maps to visualize PhonePe Pulse data. Users can gain valuable insights into transaction trends, user behavior, and geographical distribution through Plotly's dynamic visualization features.
+> Plotly is employed to create interactive and visually engaging plots, charts and maps to visualize PhonePe Pulse data. Users can gain valuable insights into transaction trends, user behavior, and geographical distribution through Plotly's dynamic visualization features.
 </br>
 </br>
 
 ___
 # Developer Guide  
 ### 1. Tools Installation
-   * Visual Studio Code (or other IDE's)
-   * Python 3.11.0 or higher
-   * MySQL
+   * Install Visual Studio Code (or any preferred IDE).
+   * Ensure Python 3.11.0 or higher is installed on your system.
+   * Install MySQL
 </br>
 
 ### 2. Required Libraries Installation in Visual Studio Code
+
 ```python
 pip install mysql-connector-python
 ```
@@ -169,3 +170,29 @@ With the ability to toggle between Transactions and Users as the chosen analyzer
 
 *  <b><ins>Exporting Insights:</ins></b>
 Users can export the analyzed insights and visualizations from the Explore Data page for further analysis or sharing. The application provides options to save visualizations as image files or export data tables for offline exploration.
+
+
+___
+## Conclusion
+</br>
+<a href="https://www.phonepe.com/pulse/" target="_blank">PhonePe Pulse</a>
+
+Inspired by the innovative features and data insights offered by [PhonePe Pulse](https://www.phonepe.com/pulse/){:target="_blank"}, I embarked on a journey to create a robust and user-friendly application that brings similar functionalities to a wider audience. Drawing inspiration from the website, I recognized the potential to leverage data visualization techniques and analytical tools to empower users with actionable insights into transaction trends and user behavior patterns.
+
+With a vision to democratize access to data-driven decision-making, I set out to develop an application that encapsulates the essence of PhonePe Pulse while offering additional features and customization options. By combining my expertise in software development with a deep understanding of data analysis and visualization, I aimed to create a powerful tool capable of handling large datasets and complex analytical tasks with ease.
+
+The result of this endeavor is the PhonePe Pulse Data Visualization and Exploration application – a feature-rich platform that empowers users to unlock valuable insights from their data. Whether it's analyzing transaction trends, exploring user behavior patterns, or visualizing geographical data, the application offers a versatile toolkit for data exploration and analysis.
+
+Continuing to iterate and enhance the application, my ultimate goal remains unchanged: to provide users with a powerful yet accessible platform for unlocking the full potential of their data. Inspired by PhonePe Pulse's commitment to innovation and data-driven decision-making, I am dedicated to pushing the boundaries of what's possible in the field of data visualization and analytics.
+
+
+___
+## License Information:
+This project is licensed under the MIT License. You are free to use, modify, and distribute the code for both commercial and non-commercial purposes, with attribution to the original author.
+
+___
+## Contact Information:
+For any questions, feedback, or contributions, feel free to reach out to the project maintainer:
+
+Balakrishnan Ravikumar
+Feel free to customize the content as per your preferences and project requirements.
