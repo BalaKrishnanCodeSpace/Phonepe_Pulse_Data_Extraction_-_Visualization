@@ -1,5 +1,5 @@
 
-![PhonepeHeading](https://github.com/BalaKrishnanCodeSpace/Phonepe_Pulse_Data_Extraction_-_Visualization/blob/32183b156712b7bc6f47b08db74f35476bfac2a4/Miscellaneous_Files/PhonepeHeading.png)
+![PhonepeHeading](https://github.com/BalaKrishnanCodeSpace/Phonepe_Pulse_Data_Extraction_-_Visualization/blob/404430d6caca59db27f153805872ab2c7035475f/Miscellaneous_Files/Phonepe_Heading.png)
 
 
 # Introduction
