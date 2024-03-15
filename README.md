@@ -2,9 +2,11 @@
 </br>
 </br>
 
-# $${\color{#6739b7}Phonepe \space Pulse \space - Data \space Visualization \space and \space Exploration}$$
+$${\color{#6739b7}Phonepe \space Pulse \space - Data \space Visualization \space and \space Exploration}$$
 
 ### <div align="center"><strong>A User-Friendly Tool Using Streamlit and Plotly</strong></div>
+
+<h1 style="font-size: 36px; color: #6739b7;">Phonepe Pulse - Data Visualization and Exploration</h1>
 
 
 # Introduction
