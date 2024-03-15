@@ -1,9 +1,5 @@
-![PhonePe Logo](https://mma.prnewswire.com/media/1832286/PhonePe_Logo.jpg?p=twitter)
-</br>
-</br>
 
-
-![Phonepe](https://github.com/BalaKrishnanCodeSpace/Phonepe_Pulse_Data_Extraction_-_Visualization/blob/6066118c89eac03f90b6c1cb4a39e5b4abc7482b/Miscellaneous_Files/Phonepe.png)
+![PhonepeHeading](https://github.com/BalaKrishnanCodeSpace/Phonepe_Pulse_Data_Extraction_-_Visualization/blob/32183b156712b7bc6f47b08db74f35476bfac2a4/Miscellaneous_Files/PhonepeHeading.png)
 
 
 # Introduction
