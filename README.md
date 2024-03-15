@@ -173,7 +173,6 @@ Users can export the analyzed insights and visualizations from the Explore Data 
 
 ___
 ## Conclusion
-</br>
 
 Inspired by the innovative features and data insights offered by [PhonePe Pulse](https://www.phonepe.com/pulse/), I embarked on a journey to create a robust and user-friendly application that brings similar functionalities to a wider audience. Drawing inspiration from the website, I recognized the potential to leverage data visualization techniques and analytical tools to empower users with actionable insights into transaction trends and user behavior patterns.
 
@@ -183,10 +182,12 @@ The result of this endeavor is the PhonePe Pulse Data Visualization and Explorat
 
 Continuing to iterate and enhance the application, my ultimate goal remains unchanged: to provide users with a powerful yet accessible platform for unlocking the full potential of their data. Inspired by PhonePe Pulse's commitment to innovation and data-driven decision-making, I am dedicated to pushing the boundaries of what's possible in the field of data visualization and analytics.
 </br>
+</br>
 
 ___
 ## License Information:
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code for both commercial and non-commercial purposes, with attribution to the original author.
+</br>
 </br>
 
 ___
