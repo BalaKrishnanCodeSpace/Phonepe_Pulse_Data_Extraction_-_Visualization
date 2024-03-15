@@ -175,7 +175,8 @@ Users can export the analyzed insights and visualizations from the Explore Data 
 ___
 ## Conclusion
 </br>
-<a href="https://www.phonepe.com/pulse/" target="_blank">PhonePe Pulse</a>
+<a href="https://www.phonepe.com/pulse/" target="_blank" rel="noopener noreferrer">PhonePe Pulse</a>
+
 
 Inspired by the innovative features and data insights offered by [PhonePe Pulse](https://www.phonepe.com/pulse/){:target="_blank"}, I embarked on a journey to create a robust and user-friendly application that brings similar functionalities to a wider audience. Drawing inspiration from the website, I recognized the potential to leverage data visualization techniques and analytical tools to empower users with actionable insights into transaction trends and user behavior patterns.
 
