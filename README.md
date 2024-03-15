@@ -106,7 +106,6 @@ This project is structured into two distinct Python files, each serving a specif
 
 ___
 ## User Guide
-</br>
 
 ### <ins><em> Analysis Page </em></ins>
 ![Analysis_Page](https://github.com/BalaKrishnanCodeSpace/Phonepe_Pulse_Data_Extraction_-_Visualization/blob/36ccad82d90bb187b25e17dbfdd97de5f1e0a296/Miscellaneous_Files/Analysis_Page.png)
